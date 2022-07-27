@@ -17,7 +17,7 @@
 ## More Information
 	More information for this service can be found on the  [I'm an inline-style link](https://www.google.com for this service.
 
-
+[I'm an inline-style link](https://www.google.com)
 	1.Item one
 	2.Item Two
 	3.Item Three
