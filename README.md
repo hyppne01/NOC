@@ -1,12 +1,11 @@
 # NaaS
 
 	NOC Monitoring Services & Managed Services
-	Alt-H1
-======
+
 	*This is meant to be an example
 	*Pretty cool, Right!
 	
-## H2
+## H2 *Pretty cool, Right!
 ### H3
 #### H4
 ##### H5
