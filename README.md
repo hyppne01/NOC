@@ -15,7 +15,7 @@
 	
 	
 ## More Information
-	More information for this service can be found on the  [Confluence link](https://confluence.rsi.lexisnexis.com/display/NW/NOC+Required+Accounts) for this service.
+	More information for this service can be found on the  [I'm an inline-style link](https://www.google.com for this service.
 
 
 	1.Item one
