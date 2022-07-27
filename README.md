@@ -11,6 +11,9 @@
 ##### H5
 ###### H6
 
-Alternatively, for H1 and H2, an underline-ish style:
+
+
+
+[I'm an inline-style link](https://confluence.rsi.lexisnexis.com/display/NW/NOC+Required+Accounts)
 
 
