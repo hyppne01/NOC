@@ -23,5 +23,5 @@
 	2.Item Two
 	3.Item Three
 	
-	Added new header and link to readme
+	Added new header and link to readme.
 
