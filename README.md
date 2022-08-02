@@ -35,3 +35,8 @@
 	•	Availability - Heavily involved in disaster recovery, ensuring 24/7/365 uptime services.
 	•	Response Time - Ensure quick response time in communication/escalation/engagement to next level of support within 5- 10 minutes of initial email/alert/inquiry.
 	•	Accuracy - monitor infrastructure health, security, and capacity and ensure continuous availability.
+
+## Objectives
+	•	Availability - 99.9% availability 24x7 365 including holidays.
+	•	Response Time - 99% of all escalation or requests will be responded to within 10 minutes.
+	•	Accuracy -99% accuracy to meet all escalation requests complete within 10% of estimation.
