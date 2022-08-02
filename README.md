@@ -28,3 +28,10 @@
 * Judith Barringer-Jenkins
 - Kristy Doyle
 + Donna Smith
+
+## Indicators
+	Please enter any feature requests into the issues section of this repository.
+	
+	•	Availability - Heavily involved in disaster recovery, ensuring 24/7/365 uptime services.
+	•	Response Time - Ensure quick response time in communication/escalation/engagement to next level of support within 5- 10 minutes of initial email/alert/inquiry.
+	•	Accuracy - monitor infrastructure health, security, and capacity and ensure continuous availability.
