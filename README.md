@@ -2,14 +2,14 @@
 
 ###	NOC Monitoring Services & Managed Services
 
-	This is meant to be an example
-	*Pretty cool, Right? 
-	<!--*Pretty cool, Right? -->
+	
+	
 		 
 ## Overview
-	Test -a
+	NOC will escalate as needed or as requested to facilitate quicker resolution to requests and events.
 ## Process
-	Test - B
+	NOC will open an incident in Pager Duty or call the OnCall for the appropriate team utilizing the information in Operational Readiness.
+	
 ## Feature Requests
 	Please enter any feature requests into the issues section of this repository.
 	
@@ -19,9 +19,9 @@
 
 [I'm an inline-style link](https://www.google.com)
 
-	1.Item one
-	2.Item Two
-	3.Item Three
-	
-	Added new header and link to readme
+		
+###	Team
+Judith Barringer-Jenkins
+Kristy Doyle
+Donna Smith
 
