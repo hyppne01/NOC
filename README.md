@@ -16,8 +16,7 @@
 	
 ## More Information
 	More information about the NOC team can be found on the wiki page.
-	[Wiki link](https://confluence.rsi.lexisnexis.com/display/NW/NOC+Agents+Login+ID)
-
+	
 [Wiki](https://www.google.com)
 
 
