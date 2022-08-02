@@ -15,7 +15,8 @@
 	
 	
 ## More Information
-	More information for this service can be found on the  [I'm an inline-style link](https://www.google.com for this service.
+	More information about the NOC team can be found on the wiki page.
+	https://confluence.rsi.lexisnexis.com/display/NW/NOC+Agents+Login+ID
 
 [I'm an inline-style link](https://www.google.com)
 
