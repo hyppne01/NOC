@@ -40,3 +40,9 @@
 	•	Availability - 99.9% availability 24x7 365 including holidays.
 	•	Response Time - 99% of all escalation or requests will be responded to within 10 minutes.
 	•	Accuracy -99% accuracy to meet all escalation requests complete within 10% of estimation.
+
+
+## Agreements
+	•	Availability - 99% availability 24x7 365 including holidays.
+	•	Response Time – 90% of all escalation or requests will be responded within 25 minutes.
+	•	Accuracy - 99% accuracy to meet all escalation requests complete within 25% of estimation.
