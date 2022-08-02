@@ -19,9 +19,17 @@
 
 [I'm an inline-style link](https://www.google.com)
 
+
 		
 ###	Team
 Judith Barringer-Jenkins
 Kristy Doyle
 Donna Smith
+=======
+	1.Item one
+	2.Item Two
+	3.Item Three
+	
+	Added new header and link to readme.
+>>>>>>> 4d5be436f0ea00448ff64ad203a63f1d5de15a12
 
