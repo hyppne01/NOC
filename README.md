@@ -40,7 +40,7 @@
 	•	Accuracy - monitor infrastructure health, security, and capacity and ensure continuous availability.
 
 ## Objectives
-	•	**Availability** 99.9% availability 24x7 365 including holidays.
+	•	**Availability** 99.9% availability 24x7 365 including holidays. **asterisks** or __underscores__.
 	•	Response Time - 99% of all escalation or requests will be responded to within 10 minutes.
 	•	Accuracy -99% accuracy to meet all escalation requests complete within 10% of estimation.
 
@@ -54,6 +54,7 @@
 
 **Availability**
 
+**asterisks** or __underscores__.
 
 Skip to content
 Search or jump to…
