@@ -22,9 +22,11 @@
 
 		
 ###	Team
-Judith Barringer-Jenkins
-Kristy Doyle
-Donna Smith
+.Judith Barringer-Jenkins
+.Kristy Doyle
+.Donna Smith
+
+
 =======
 	1.Item one
 	2.Item Two
