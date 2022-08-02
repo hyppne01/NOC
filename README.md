@@ -24,7 +24,7 @@
 ###	Team
 
 
-0. NOC Team
+* NOC Team
 * Judith Barringer-Jenkins
 - Kristy Doyle
 + Donna Smith
