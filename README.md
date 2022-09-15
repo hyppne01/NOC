@@ -1,8 +1,5 @@
-# NaaS
 
-###	NOC Monitoring Services & Managed Services
-
-	
+#	NOC Monitoring Services & Managed Services
 	
 		 
 ## Overview
