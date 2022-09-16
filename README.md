@@ -6,7 +6,8 @@
 	LNRS NOC is located from various locations that monitor and control the network, when new events occur or are reported, the 
 	NOC escalates as needed or as requested to facilitate quicker resolution of requests and events.
 ## Process
-	NOC will open an incident in Pager Duty or call the OnCall for the appropriate team utilizing the information in Operational Readiness.
+	NOC will open an incident in Pager Duty or call the OnCall for the appropriate team utilizing the 
+	information in Operational Readiness.
 	
 ## Feature Requests
 	Please enter any feature requests into the issues section of this repository.
